@@ -34,12 +34,12 @@ var progress = [
 					{
 						name: 'Software Construction - Data Abstraction',
 						url: 'https://www.edx.org/course/software-construction-data-abstraction-ubcx-softconst1x',
-						status: 'doing'
+						status: 'done'
 					},
 					{
 						name: 'Software Construction - Object-Oriented Design',
 						url: 'https://www.edx.org/course/software-construction-object-oriented-ubcx-softconst2x',
-						status: 'todo'
+						status: 'doing'
 					},
 					{
 						name: 'Programming Languages, Part A',
@@ -99,7 +99,7 @@ var progress = [
 					{
 						name: 'Build a Modern Computer from First Principles: Nand to Tetris Part II',
 						url: 'https://www.coursera.org/learn/nand2tetris2',
-						status: 'todo'
+						status: 'doing'
 					},
 					{
 						name: 'Introduction to Computer Networking',
